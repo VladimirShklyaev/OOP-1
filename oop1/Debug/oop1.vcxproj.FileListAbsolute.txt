@@ -1,0 +1,3 @@
+D:\C#\oop1\Debug\oop1.exe
+D:\C#\oop1\Debug\oop1.pdb
+G:\C#\oop1\Debug\oop1.exe
